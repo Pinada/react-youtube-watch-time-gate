@@ -46,7 +46,7 @@ To use, you simply have to edit the videoConfig json file. The file is separeted
 
 ```js
 {
-   "cat1": {
+"cat1": {
     "itemTitle": {
       "tileText": "title text",
       "tileImageSrc": "/files/test-src.png", // link to thumnail, 1920x1080
@@ -56,7 +56,7 @@ To use, you simply have to edit the videoConfig json file. The file is separeted
       "perc": 15, // percentage of the video that users do NOT have to watch
       "link": "/files/test-file.zip" // link to file
     },
-    "cat2": {
+"cat2": {
     "itemTitle": {
       "tileText": "title text",
       "tileImageSrc": "/files/test-src.png",
@@ -79,7 +79,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Pinada - [@your_twitter](https://twitter.com/pinadaMedia) 
+Pinada - [@pinadaMedia](https://twitter.com/pinadaMedia) 
 
 
 
