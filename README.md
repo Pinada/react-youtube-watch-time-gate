@@ -23,7 +23,7 @@ https://www.hypepinada.com/
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/pinada/react-youtube-watch-time-gate.git
+   git clone https://github.com/Pinada/react-youtube-watch-time-gate.git
    ```
 2. Install NPM packages
    ```sh
